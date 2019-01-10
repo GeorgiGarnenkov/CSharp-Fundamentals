@@ -1,0 +1,28 @@
+;metsyS gnisu
+;OI.metsyS gnisu
+
+eliFdaeR ecapseman
+{
+eliFdaeR ssalc    
+{    
+)(niaM diov citats        
+{        
+))"sc.eliFdaeR"(redaeRmaertS wen = maertSdaer rav(gnisu            
+{            
+))"txt.desrever"(retirWmaertS wen = maertSetirw rav( gnisu                
+{                
+;enil gnirts                    
+)llun =! ))(eniLdaeR.maertSdaer = enil(( elihw                    
+{                    
+)--i ;0 => i ;1 - htgneL.enil = i tni( rof                        
+{                        
+;)]i[enil(etirW.maertSetirw                            
+}                        
+;)(eniLetirW.maertSetirw                        
+}                    
+}                
+                
+}            
+}        
+}    
+}

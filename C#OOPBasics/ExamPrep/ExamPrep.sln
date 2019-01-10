@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrandPrix", "GrandPrix\GrandPrix.csproj", "{A280B550-6CBB-4210-8BAD-561738FA33EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minedraft", "Minedraft\Minedraft.csproj", "{328EEB00-606A-4D6F-BBCE-506F3634BFA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avatar", "Avatar\Avatar.csproj", "{AAFD0DAB-8FCF-4102-AA44-92E126341611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A280B550-6CBB-4210-8BAD-561738FA33EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A280B550-6CBB-4210-8BAD-561738FA33EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A280B550-6CBB-4210-8BAD-561738FA33EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A280B550-6CBB-4210-8BAD-561738FA33EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328EEB00-606A-4D6F-BBCE-506F3634BFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328EEB00-606A-4D6F-BBCE-506F3634BFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328EEB00-606A-4D6F-BBCE-506F3634BFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328EEB00-606A-4D6F-BBCE-506F3634BFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAFD0DAB-8FCF-4102-AA44-92E126341611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFD0DAB-8FCF-4102-AA44-92E126341611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFD0DAB-8FCF-4102-AA44-92E126341611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFD0DAB-8FCF-4102-AA44-92E126341611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {003759A0-4958-4F20-B035-DF100D015460}
+	EndGlobalSection
+EndGlobal
